@@ -2,9 +2,8 @@ import { useState } from "react";
 import { CodeUpload } from "@/components/CodeUpload";
 import { ReviewReport } from "@/components/ReviewReport";
 import { analyzeCode } from "@/services/codeReviewService";
-import { Github } from "lucide-react";
+import { Sparkles, Github } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import logo from "@/assets/logo.png";
 
 interface ReviewResult {
   issues: Array<{
@@ -44,8 +43,8 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-lg overflow-hidden">
-                <img src={logo} alt="CodeReview AI Logo" className="w-full h-full object-cover" />
+              <div className="p-2 rounded-lg bg-primary/10">
+                <Sparkles className="w-6 h-6 text-primary" />
               </div>
               <div>
                 <h1 className="text-xl font-bold text-foreground">CodeReview AI</h1>
