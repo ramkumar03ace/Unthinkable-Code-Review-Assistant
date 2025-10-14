@@ -100,7 +100,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="border-t border-border mt-16 bg-card/30">
         <div className="container mx-auto px-4 py-6 text-center text-sm text-muted-foreground">
-          <p>Built with AI • Powered by Advanced Language Models</p>
+          <p>codeReview, made by Ramkumar A D</p>
         </div>
       </footer>
     </div>
