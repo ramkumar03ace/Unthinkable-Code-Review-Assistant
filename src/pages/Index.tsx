@@ -53,7 +53,7 @@ const Index = () => {
             </div>
             
             <Button variant="secondary" size="sm" asChild>
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/ramkumar03ace" target="_blank" rel="noopener noreferrer">
                 <Github className="w-4 h-4 mr-2" />
                 GitHub
               </a>
@@ -100,7 +100,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="border-t border-border mt-16 bg-card/30">
         <div className="container mx-auto px-4 py-6 text-center text-sm text-muted-foreground">
-          <p>codeReview, made by Ramkumar A D</p>
+          <p>CodeReview AI • Made with ❤️ by Ramkumar A D</p>
         </div>
       </footer>
     </div>
