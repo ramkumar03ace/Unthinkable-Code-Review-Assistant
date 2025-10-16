@@ -29,3 +29,8 @@ The project will be evaluated based on the following criteria:
 -   The efficiency and correctness of the code handling and processing.
 -   The design and implementation of the API.
 -   The overall completeness and functionality of the application.
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c53650aa-d11a-4dcc-b909-831cd5e48fae" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/ca189a24-ed09-469f-af43-be3722a6c553" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/dfc3a19a-f01a-48a6-9dd5-9ce58a16cb64" />
+
