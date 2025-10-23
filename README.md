@@ -36,3 +36,40 @@ https://unthikable-code-reviwer.vercel.app/
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/ca189a24-ed09-469f-af43-be3722a6c553" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/dfc3a19a-f01a-48a6-9dd5-9ce58a16cb64" />
 
+## How to Run This App
+
+To run this application locally, follow these steps:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/Unthinkable-Code-Review-Assistant.git
+cd Unthinkable-Code-Review-Assistant
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the Development Server
+
+```bash
+npm run dev
+```
+
+This will start the development server, usually accessible at `http://localhost:5173`.
+
+### 4. Build for Production (Optional)
+
+To create a production-ready build of the application:
+
+```bash
+npm run build
+```
+
+To preview the production build:
+
+```bash
+npm run preview
