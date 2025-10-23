@@ -50,13 +50,13 @@ cd Unthinkable-Code-Review-Assistant
 ### 2. Install Dependencies
 
 ```bash
-npm install
+bun install
 ```
 
 ### 3. Run the Development Server
 
 ```bash
-npm run dev
+bun run dev
 ```
 
 This will start the development server, usually accessible at `http://localhost:5173`.
@@ -66,10 +66,10 @@ This will start the development server, usually accessible at `http://localhost:
 To create a production-ready build of the application:
 
 ```bash
-npm run build
+bun run build
 ```
 
 To preview the production build:
 
 ```bash
-npm run preview
+bun run preview
